@@ -12,7 +12,8 @@
     <li>🌱 I’m currently learning Java enterprise application development</li>
     <li>💬 Ask me about Core Java,OOPs,Collection,JDBC,Hibernate,MySQL,HTML,CSS and JS</li>
     <li>📫 How to reach me pachappagarivanitha@gmail.com</li>
-    <li></li>
+    <li>📄 My resume</li>
   </ul>
+  <h2>Connect with me:</h2>
 </body>
 </html>
