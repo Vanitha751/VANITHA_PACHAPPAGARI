@@ -15,5 +15,8 @@
     <li>📄 My resume</li>
   </ul>
   <h2>Connect with me:</h2>
+  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank"><img src="linkedin.png" alt="LinkedIn" width="50px"></a>
+</body>
+</html>
 </body>
 </html>
